@@ -1,0 +1,10 @@
+c:\users\drleavsy\documents\visual studio 2015\Projects\HW11\HW11\obj\Debug\HW11.Form1.resources
+c:\users\drleavsy\documents\visual studio 2015\Projects\HW11\HW11\obj\Debug\HW11.Properties.Resources.resources
+c:\users\drleavsy\documents\visual studio 2015\Projects\HW11\HW11\obj\Debug\HW11.csproj.GenerateResource.Cache
+c:\users\drleavsy\documents\visual studio 2015\Projects\HW11\HW11\bin\Debug\HW11.exe.config
+c:\users\drleavsy\documents\visual studio 2015\Projects\HW11\HW11\bin\Debug\HW11.exe
+c:\users\drleavsy\documents\visual studio 2015\Projects\HW11\HW11\bin\Debug\HW11.pdb
+c:\users\drleavsy\documents\visual studio 2015\Projects\HW11\HW11\bin\Debug\InputSimulator.dll
+c:\users\drleavsy\documents\visual studio 2015\Projects\HW11\HW11\obj\Debug\HW11.exe
+c:\users\drleavsy\documents\visual studio 2015\Projects\HW11\HW11\obj\Debug\HW11.pdb
+C:\Users\drleavsy\Documents\Visual Studio 2015\Projects\HW11\HW11\obj\Debug\HW11.csprojResolveAssemblyReference.cache
