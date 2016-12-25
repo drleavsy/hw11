@@ -36,8 +36,7 @@
     <Reference Include="HW7">
       <HintPath>bin\Debug\HW7.dll</HintPath>
     </Reference>
-    <Reference Include="HW9A, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
+    <Reference Include="HW9A">
       <HintPath>bin\Debug\HW9A.dll</HintPath>
     </Reference>
     <Reference Include="HW9B, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
